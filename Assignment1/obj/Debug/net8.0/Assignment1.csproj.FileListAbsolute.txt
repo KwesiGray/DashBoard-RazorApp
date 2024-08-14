@@ -1,0 +1,57 @@
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\appsettings.json
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\Assignment1.staticwebassets.runtime.json
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\Gaa\Documents\C#\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.build.Assignment1.props
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assignment1.props
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assignment1.props
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\Gaa\Documents\C#\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\appsettings.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\Assignment1.staticwebassets.runtime.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.sourcelink.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.build.Assignment1.props
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assignment1.props
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assignment1.props
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\Agent Breslin\Desktop\Blazor Web app\DashBoard\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll

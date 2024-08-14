@@ -1,0 +1,32 @@
+﻿/* product.css */
+
+h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.product-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.product-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.product-details {
+    text-align: center;
+}
+
+.product-price {
+    font-size: 24px;
+    font-weight: bold;
+    color: #4CAF50;
+    margin-top: 10px;
+}

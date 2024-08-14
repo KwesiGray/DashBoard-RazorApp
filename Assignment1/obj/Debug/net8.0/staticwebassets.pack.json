@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\dashboard.css",
+      "PackagePath": "staticwebassets\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\feather.min.js",
+      "PackagePath": "staticwebassets\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\orders.css",
+      "PackagePath": "staticwebassets\\orders.css"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\popper.min.js",
+      "PackagePath": "staticwebassets\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Agent Breslin\\Desktop\\Blazor Web app\\DashBoard\\Assignment1\\wwwroot\\signin.css",
+      "PackagePath": "staticwebassets\\signin.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment1.props",
+      "PackagePath": "build\\Assignment1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment1.props",
+      "PackagePath": "buildMultiTargeting\\Assignment1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment1.props",
+      "PackagePath": "buildTransitive\\Assignment1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

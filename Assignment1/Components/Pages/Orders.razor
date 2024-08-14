@@ -1,0 +1,72 @@
+﻿@page "/Orders"
+
+<h3>Orders</h3>
+
+<button @onclick="LoadOrders">Refresh Orders</button>
+
+@if (orders == null)
+{
+    <p>Loading...</p>
+}
+else if (!orders.Any())
+{
+    <p>No orders available.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Customer Name</th>
+                <th>Order Date</th>
+                <th>Total Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in orders)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.CustomerName</td>
+                    <td>@order.OrderDate.ToShortDateString()</td>
+                    <td>@order.TotalAmount.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Order> orders;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadOrders();
+    }
+
+    private async Task LoadOrders()
+    {
+        // Simulate loading data from a service
+        await Task.Delay(1000); // Simulate a delay
+        orders = new List<Order>
+        {
+            new Order { OrderId = 1, CustomerName = "David Graham", OrderDate = DateTime.Now.AddDays(-1), TotalAmount = 199.99m },
+            new Order { OrderId = 2, CustomerName = "Thelma Kosivi", OrderDate = DateTime.Now.AddDays(-2), TotalAmount = 149.99m },
+            new Order { OrderId = 3, CustomerName = "Miss Aidam", OrderDate = DateTime.Now.AddDays(-3), TotalAmount = 89.99m },
+            new Order { OrderId = 4, CustomerName = "Bruce Mathers", OrderDate = DateTime.Now.AddDays(-3), TotalAmount = 18.99m },
+            new Order { OrderId = 5, CustomerName = "Black Boy", OrderDate = DateTime.Now.AddDays(-1), TotalAmount = 19.99m },
+            new Order { OrderId = 6, CustomerName = "James Brown", OrderDate = DateTime.Now.AddDays(-2), TotalAmount = 49.99m },
+            new Order { OrderId = 7, CustomerName = "Fitz Gerald", OrderDate = DateTime.Now.AddDays(-3), TotalAmount = 29.99m },
+            new Order { OrderId = 8, CustomerName = "Bruce Mathers", OrderDate = DateTime.Now.AddDays(-3), TotalAmount = 8.99m }
+        };
+    }
+
+    private class Order
+    {
+        public int OrderId { get; set; }
+        public string CustomerName { get; set; }
+        public DateTime OrderDate { get; set; }
+        public decimal TotalAmount { get; set; }
+    }
+}

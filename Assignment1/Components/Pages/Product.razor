@@ -1,0 +1,38 @@
+﻿@page "/Product"
+<h3>Product Details</h3>
+
+<div class="product-container">
+    <img src="@product.ImageUrl" alt="@product.Name" class="product-image" />
+    <div class="product-details">
+        <h2>@product.Name</h2>
+        <p>@product.Description</p>
+        <p class="product-price">@product.Price.ToString("C")</p>
+    </div>
+</div>
+
+@code {
+    private ProductModel product = new ProductModel();
+
+    protected override void OnInitialized()
+    {
+        // Simulate loading product data
+        product = new ProductModel
+            {
+                Name = "2.0 Turbo",
+                Description = "400cc TurboCharger.",
+                Price = 1235.99m,
+                ImageUrl = "https://via.placeholder.com/150"
+            };
+
+        // Simulate loading product data
+        
+    }
+
+    private class ProductModel
+    {
+        public string Name { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
+        public decimal Price { get; set; }
+        public string ImageUrl { get; set; } = string.Empty;
+    }
+}
